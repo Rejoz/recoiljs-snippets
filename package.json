@@ -1,47 +1,47 @@
 {
-    "name": "recoiljs-snippets",
-    "displayName": "Recoiljs Snippets",
-    "description": "Recoiljs JavaScript Visual Studio Code snippets",
-    "version": "0.2.0",
-    "icon": "icons/logo.png",
-    "engines": {
-        "vscode": "^1.49.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "keywords": [
-        "recoiljs",
-        "snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "javascript",
-                "path": "./snippets/snippets.code-snippets"
-            },
-            {
-                "language": "typescript",
-                "path": "./snippets/snippets.code-snippets"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/snippets.code-snippets"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/snippets.code-snippets"
-            }
-        ]
-    },
-    "publisher": "recoiljs-snippets",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/JohanZasada/recoiljs-snippets/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/JohanZasada/recoiljs-snippets.git"
-    },
-    "homepage": "https://github.com/JohanZasada/recoiljs-snippets"
+  "name": "recoiljs-snippets",
+  "displayName": "Recoiljs Snippets",
+  "description": "Recoiljs JavaScript Visual Studio Code snippets",
+  "version": "0.3.0",
+  "icon": "icons/logo.png",
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "keywords": [
+    "recoiljs",
+    "snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "publisher": "recoiljs-snippets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohanZasada/recoiljs-snippets/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohanZasada/recoiljs-snippets.git"
+  },
+  "homepage": "https://github.com/JohanZasada/recoiljs-snippets"
 }
