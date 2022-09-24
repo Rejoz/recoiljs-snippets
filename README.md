@@ -2,10 +2,11 @@
 
 Snippets prefix: `rcl`
 
-| Supported files |     |     |      |      |
-| --------------- | --- | --- | ---- | ---- |
-| ext             | .js | .ts | .jsx | .tsx |
-|                 |     |     |      |      |
+### Supported files:
+
+| ext |     |     |      |      |
+| --- | --- | --- | ---- | ---- |
+|     | .js | .ts | .jsx | .tsx |
 
 ### Trigger available:
 
